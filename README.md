@@ -4,7 +4,7 @@
 
 - 🔭 Currently working with **C#**, **APIs** and **Telerik**
 - 🌱 Studying *Flutter, React, Vue 3 and Design Patterns*
-- My best language = **C#**
+- My best language is <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 - :star::star::star: 4 years working in the area
 <p align="left"> Aspiring in PWA / Mobile and augmented reality (AR), I am a person who likes to learn, innovate and mainly to be creative. I'm always keeping myself updated on new concepts, designs, technologies, and inspirations to be able to develop something unique.
     I continuously seek to expand and develop my knowledge with things that can add me personally and professionally.</p>
