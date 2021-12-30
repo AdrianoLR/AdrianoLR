@@ -1,4 +1,4 @@
-<h1 align="center">Hello Word :v:</h1> 
+<h1 align="center">Hello Word</h1> 
 
 <h3 align="center">I'm a fullstack developer from Brazil</h3>
 
