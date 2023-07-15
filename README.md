@@ -1,8 +1,9 @@
-<h1 align="center">Hello Word</h1> 
+<h1 align="center">Hello World</h1> 
 
 <h3 align="center">I'm a fullstack developer currently located in Perth - WA</h3>
 
 - 🌱 Studying *React, C#/dotNet an GraphQL*
+-  Aspiring *AR, WebGL and Flutter*
 <p align="left">
 As someone who aspires to work in the fields of progressive web applications (PWA),  and augmented reality (AR), I have acquired ability in Flutter, which I use to create PWAs, and Unity, which I use to design mini-games with AR features.
 
